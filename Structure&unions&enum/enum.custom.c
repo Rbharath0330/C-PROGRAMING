@@ -1,6 +1,6 @@
 #include <stdio.h>
 enum custom{
-star=10,
+start=10,
 stop=20,
 puase=30,
 };
